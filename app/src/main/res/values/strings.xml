@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Poster</string>
+    <string name="server_error">Сервер временно недоступен</string>
+    <string name="user_already_exist">Пользователь с данным именем уже зарегистрирован</string>
+    <string name="username_error">Имя пользователя должно содержать от 6 до 24 символов</string>
+    <string name="nickname_error">Полное имя должно содержать от 1 до 36 символов</string>
+    <string name="password_error">Пароль должен содержать от 6 до 24 символов</string>
+    <string name="register_title">Придумайте логин и пароль</string>
+    <string name="auth_title">Авторизация</string>
+    <string name="auth_error">Неверный логин или пароль</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="conf_title">Политика конфиденциальности</string>
+    <string name="next_title">Далее</string>
+    <string name="publications_title">Публикации</string>
+    <string name="new_publication">Новая публикация</string>
+    <string name="settings_title">Редактировать профиль</string>
+    <string name="choose_avatar_title">Выберите аватарку</string>
+    <string name="fullname_hint">Полное имя</string>
+    <string name="save_title">Сохранить</string>
+    <string name="exit_title">Выйти из аккаунта</string>
+    <string name="empty_message">Вы не можете отправить пустое сообщение</string>
+    <string name="days_ago_title">" д. назад"</string>
+    <string name="post_uploaded">Пост отправлен</string>
+    <string name="profile_updated">Профиль обновлен</string>
+    <string name="search_title">Поиск</string>
+    <string name="profile_title">Профиль</string>
+    <string name="do_register_title">Зарегистрироваться</string>
+    <string name="do_auth_title">Войти в аккаунт</string>
+</resources>

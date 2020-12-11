@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_posts"
+        android:title="feed"
+        android:icon="@drawable/ic_feed"
+        app:showAsAction="always"
+    />
+
+    <item
+        android:id="@+id/nav_search"
+        android:title="search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+    />
+    <item
+        android:id="@+id/nav_create"
+        android:title="create"
+        android:icon="@drawable/ic_create"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="profile"
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="always"
+    />
+</menu>
